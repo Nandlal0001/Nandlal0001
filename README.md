@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nandlal Mahato — Portfolio
 
 A responsive, static portfolio built with semantic HTML, CSS, and vanilla JavaScript. No build step or package installation is required.
@@ -15,3 +16,6 @@ Open `index.html` in a browser, or serve this directory with any static web serv
 - Resume links currently open an email request because no resume file was included.
 
 The contribution heatmap reads public contribution data from `github-contributions-api.jogruber.de`. It falls back to the GitHub profile link when that service is unavailable. Google Fonts are loaded remotely; system fonts remain the fallback.
+=======
+# Nandlal-Mahato
+>>>>>>> fdbc82ad611237b7266fffc5994e1dd13f301a2c
