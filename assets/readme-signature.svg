@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" fill="none">
+  <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D141D"/><stop offset=".55" stop-color="#182C41"/><stop offset="1" stop-color="#203A55"/></linearGradient><pattern id="g" width="27" height="27" patternUnits="userSpaceOnUse"><path d="M27 0H0V27" stroke="#8CC8FF" stroke-opacity=".055"/></pattern></defs>
+  <rect width="1200" height="190" rx="10" fill="url(#b)"/><rect width="1200" height="190" rx="10" fill="url(#g)"/><rect x="1" y="1" width="1198" height="188" rx="9" stroke="#8CC8FF" stroke-opacity=".34"/>
+  <text x="600" y="75" text-anchor="middle" fill="#C6E4FF" font-family="Georgia,serif" font-size="43" font-style="italic">Nandlal Mahato</text>
+  <path d="M110 98h980" stroke="#8CC8FF" stroke-opacity=".25"/><circle cx="600" cy="98" r="4" fill="#8CC8FF"/>
+  <text x="600" y="128" text-anchor="middle" fill="#EAF4FC" font-family="Georgia,serif" font-size="17" font-style="italic">Building intelligent systems. Engineering meaningful experiences.</text>
+  <text x="600" y="160" text-anchor="middle" fill="#8EA8BC" font-family="monospace" font-size="9" letter-spacing="2">ENGINEERING · CURIOSITY · CONTINUOUS LEARNING</text>
+</svg>
